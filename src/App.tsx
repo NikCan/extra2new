@@ -9,7 +9,6 @@ type ShowType = {
   title: string
   completed: boolean
 }
-
 // // useEffect(() => {
 // fetch('https://jsonplaceholder.typicode.com/todos')
 //     .then(response => response.json())
